@@ -10,6 +10,12 @@ Bot ini dibangun dengan pythonanywhere yang menggunakan python 3.6
 <br>
 <br>
 
+## Dokumentasi
+<img src="https://user-images.githubusercontent.com/54527592/100474241-c76e5080-3112-11eb-8e95-87ed4cdc8312.jpg" />
+
+<br>
+<br>
+
 ## Tools / Framework / Other
 | Bagian | Tools yang digunakan |
 | --- | --- |
