@@ -1,5 +1,22 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 # BOT-TELEGRAM-PYTHON-DETECT-DOCUMENT-WITH-NOTIFICATION-ETC
-Python bot development. Bot ini dibangun dengan pythonanywhere yang menggunakan python 3.6 sebagai upaya dalam melakukan pengembangan bot.
+<b>Proyek Pengembangan Bot Python Telegram</b> <br>
+Bot ini dibangun dengan pythonanywhere yang menggunakan python 3.6
+
+<br>
+<br>
+
+## Tools / Framework / Other
+| Bagian | Tools yang digunakan |
+| --- | --- |
+| Vendor | Pythonanywhere |
+| Language | Python 3.6 |
+| Text Editor | Sublime |
+
+<br>
+<br>
 
 ## Kemampuan Bot
 1. Terdapat pilihan menu yang dapat diakses dengan cara diklik atau diketik.
