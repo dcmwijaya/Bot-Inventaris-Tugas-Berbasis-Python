@@ -1,0 +1,2 @@
+# BOT-TELEGRAM-PYTHON-DETECT-DOCUMENT-WITH-NOTIFICATION-ETC
+Python bot development. Bot ini terdapat pilihan menu yang dapat diakses dengan cara diklik atau diketik, adapula pilihan menu custom keyboard dan menu inline keyboard yang menambah estetika bot. Selain itu bot ini juga dapat mendeteksi file / dokumen yang masuk dan memberikan notifikasi secara langsung kepada pengirim. Adapun kemampuan lain bot ini yaitu dapat memberikan notifikasi kepada pemilik bot bahwa seseorang telah mengakses menu tertentu, sehingga pemilik bot dapat memantau pergerakan.
