@@ -31,17 +31,30 @@ Bot ini dibangun dengan pythonanywhere yang menggunakan python 3.6
 <br>
 <br>
 
-## Langkah2 Via Hosting
+## Langkah2 Pembuatan Bot
 1. Fork / Download repositori ini
-2. Register pythonanywhere : 
+2. Lalu rename file dan ubah isi dari Bot-Pertemuan6.py sesuai data anda
+3. Register pythonanywhere : 
 
 ```bash
 https://www.pythonanywhere.com/registration/register/beginner/
 ```
 
 3. Login
-4. Buat direktori baru -> upload file.py ()
-5. Selesai! Silahkan dicoba ^^
+4. Buat direktori baru -> upload file.py anda
+5. Buka new tab -> Pilih Home -> Pilih Bash Console
+6. Ketikkan ini :
+
+```bash
+pip3.6 install --user pytelegrambotapi
+```
+
+7. Kembali ke tab awal yaitu file.py anda -> Refresh halaman (F5) -> run
+8. Selesai! Silahkan dicoba ^^
 
 <br>
 <br>
+
+## Catatan
+- Perhatikan cara penulisan sintaks yang baik dan benar karena python termasuk sensitive case
+- Pastikan PC/Laptop anda telah terkoneksi dengan internet
