@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/BOT-TELEGRAM-PYTHON-DETECT-DOCUMENT-WITH-NOTIFICATION-ETC)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 
 # BOT-TELEGRAM-PYTHON-DETECT-DOCUMENT-WITH-NOTIFICATION-ETC
 <b>Proyek Pengembangan Bot Python Telegram</b> <br>
