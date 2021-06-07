@@ -5,7 +5,7 @@
 ![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Bot-Telegram-Python-Inventaris-Tugas.svg?color=FF8C00)
 ![GitHub Forks](https://img.shields.io/github/forks/devancakra/Bot-Telegram-Python-Inventaris-Tugas.svg?color=00CED1)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Bot-Telegram-Python-Inventaris-Tugas)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Python](https://img.shields.io/badge/-Python-blue.svg?style=flat&logo=python&logoColor=white)
 
 # Bot-Telegram-Python-Inventaris-Tugas
 <b>Proyek Pengembangan Bot Python Telegram</b> <br>
