@@ -1,17 +1,16 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Bot-Telegram-Python-Inventaris-Tugas)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python)
 [![ISSN](https://img.shields.io/badge/ISSN-2686%E2%80%936099-blue.svg?logo=google-scholar&color=98FB98)](http://www.ejournal.upnjatim.ac.id/index.php/scan/article/view/2352)
-![GitHub Star](https://img.shields.io/github/stars/devancakra/Bot-Telegram-Python-Inventaris-Tugas.svg?color=FF69B4)
-![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Bot-Telegram-Python-Inventaris-Tugas.svg?color=FF8C00)
-![GitHub Forks](https://img.shields.io/github/forks/devancakra/Bot-Telegram-Python-Inventaris-Tugas.svg?color=00CED1)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Bot-Telegram-Python-Inventaris-Tugas)
+![GitHub Star](https://img.shields.io/github/stars/devancakra/Bot-Inventaris-Tugas-Berbasis-Python.svg?color=FF69B4)
+![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Bot-Inventaris-Tugas-Berbasis-Python.svg?color=FF8C00)
+![GitHub Forks](https://img.shields.io/github/forks/devancakra/Bot-Inventaris-Tugas-Berbasis-Python.svg?color=00CED1)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Bot-Inventaris-Tugas-Berbasis-Python)
 ![Python](https://img.shields.io/badge/-Python-blue.svg?style=flat&logo=python&logoColor=white)
 
 # Bot-Telegram-Python-Inventaris-Tugas
-<b>Proyek Pengembangan Bot Python Telegram</b> <br>
-Bot ini dibangun dengan pythonanywhere yang menggunakan python 3.6
+<strong>2nd Final Project in API Programming</strong><br>
+Proyek ini berkaitan erat dengan bot telegram, yang mana bot ini sendiri memiliki peran penting dalam kegiatan belajar mengajar dalam suatu kelas. Bot ini dapat melakukan inventaris tugas secara berkala. Bot ini dibangun dengan bantuan platform yang bernama ``` pythonanywhere ```. Pada proyek kali ini, pencipta program menggunakan ``` python versi 3.6 ``` karena diketahui memiliki keunggulan dalam sintaksis. Tujuan dibuatnya proyek ini adalah untuk membantu dosen atau guru dalam menginventaris tugas para anak didiknya dan mengantisipasi adanya kesalahan yang mungkin saja terjadi yaitu lupa merekap, hal ini dikarenakan padatnya aktivitas perpesanan yang ada dalam suatu grup sosial media kelas, dalam hal ini telegram.
 
-<br>
 <br>
 
 ## Dokumentasi
