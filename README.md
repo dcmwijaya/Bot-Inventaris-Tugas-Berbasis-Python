@@ -10,7 +10,7 @@
 # Bot-Telegram-Python-Inventaris-Tugas
 <strong>2nd Final Project in API Programming</strong><br>
 
-This project is closely related to telegram bots, which themselves have an important role in teaching and learning activities in a classroom. This bot can perform task inventory periodically. This bot is built with the help of a platform called "pythonanywhere". In this project, the program creator uses ``python version 3.6`` because it is known to have advantages in syntax. The purpose of this project is to help lecturers or teachers in taking inventory of their students' assignments and anticipate errors that might occur, namely forgetting to recap, this is due to the busy messaging activities in a class social media group, in this case telegram.
+This project is closely related to telegram bots, which themselves have an important role in teaching and learning activities in a classroom. This bot can perform task inventory periodically. This bot is built with the help of a platform called ``` pythonanywhere ```. In this project, the program creator uses ``` python version 3.6 ``` because it is known to have advantages in syntax. The purpose of this project is to help lecturers or teachers in taking inventory of their students' assignments and anticipate errors that might occur, namely forgetting to recap, this is due to the busy messaging activities in a class social media group, in this case telegram.
 
 <br>
 
