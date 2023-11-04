@@ -9,7 +9,8 @@
 
 # Bot-Telegram-Python-Inventaris-Tugas
 <strong>2nd Final Project in API Programming</strong><br>
-Proyek ini berkaitan erat dengan bot telegram, yang mana bot ini sendiri memiliki peran penting dalam kegiatan belajar mengajar dalam suatu kelas. Bot ini dapat melakukan inventaris tugas secara berkala. Bot ini dibangun dengan bantuan platform yang bernama ``` pythonanywhere ```. Pada proyek kali ini, pencipta program menggunakan ``` python versi 3.6 ``` karena diketahui memiliki keunggulan dalam sintaksis. Tujuan dibuatnya proyek ini adalah untuk membantu dosen atau guru dalam menginventaris tugas para anak didiknya dan mengantisipasi adanya kesalahan yang mungkin saja terjadi yaitu lupa merekap, hal ini dikarenakan padatnya aktivitas perpesanan yang ada dalam suatu grup sosial media kelas, dalam hal ini telegram.
+
+This project is closely related to telegram bots, which themselves have an important role in teaching and learning activities in a classroom. This bot can perform task inventory periodically. This bot is built with the help of a platform called "pythonanywhere". In this project, the program creator uses ``python version 3.6`` because it is known to have advantages in syntax. The purpose of this project is to help lecturers or teachers in taking inventory of their students' assignments and anticipate errors that might occur, namely forgetting to recap, this is due to the busy messaging activities in a class social media group, in this case telegram.
 
 <br>
 
