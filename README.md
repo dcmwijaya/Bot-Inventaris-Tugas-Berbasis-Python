@@ -51,14 +51,14 @@ This project is closely related to telegram bots, which themselves have an impor
 
 5. Then upload ``` Bot-Pertemuan6.py ``` by clicking the ``` Upload a file ``` button.
 
-6. Open a new tab -> Select ``` Home ``` -> Select ``` Bash Console ```.
+6. Make page duplication -> Go to the duplication page -> Click on ``` Open Bash console here ```.
   
 7. Then type this in the console :
    ```bash
    pip3.6 install --user pytelegrambotapi
    ```
 
-8. Return to the initial tab, that is ``` file.py ``` -> refresh page: ``` F5 ``` -> ``` run ```.
+8. Return to the initial tab, that is ``` Bot-Pertemuan6.py ``` -> refresh page: ``` F5 ``` -> ``` run ```.
     
 9. Enjoy [Done].
 
