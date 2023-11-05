@@ -47,9 +47,9 @@ This project is closely related to telegram bots, which themselves have an impor
    ```
 3. Login to ``` pythonanywhere account ```.
    
-4. Create a new directory on the ``` pythonanywhere platform`` by clicking on ```Files`` at the top -> Type in the Directories section: ```Pertemuan6`` -> Click ```New directory``.
+4. Create a new directory on the ``` pythonanywhere platform ``` by clicking on ``` Files ``` at the top -> Type in the Directories section: ``` Pertemuan6 ``` -> Click ``` New directory ```.
 
-5. Then upload ```Bot-Pertemuan6.py`` by clicking the ```upload a file`` button.
+5. Then upload ``` Bot-Pertemuan6.py ``` by clicking the ``` Upload a file ``` button.
 
 6. Open a new tab -> Select ``` Home ``` -> Select ``` Bash Console ```.
   
