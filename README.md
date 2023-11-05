@@ -24,16 +24,16 @@ This project is closely related to telegram bots, which themselves have an impor
 
 <br>
 
-## Kemampuan Bot
-1. Terdapat pilihan menu yang dapat diakses dengan cara diklik atau diketik.
+## Bot Capabilities
+1. There are menu options that can be accessed by clicking or typing.
    
-2. Selain itu bot ini juga dapat mendeteksi file / dokumen yang masuk dan memberikan notifikasi secara langsung kepada pengirim.
+2. It can also detect incoming files or documents and notify the sender directly.
    
-3. Adapun kemampuan lain bot ini yaitu dapat memberikan notifikasi kepada pemilik bot bahwa seseorang telah mengakses menu tertentu, sehingga pemilik bot dapat memantau pergerakan yang terjadi secara langsung.
+3. Another ability of this bot is that it can provide notification to the bot owner that someone has accessed a certain menu, so that the bot owner can monitor the movements that occur directly.
    
-4. Bot ini dapat menyapa user grup maupun user non grup.
+4. This bot can address both group users and non-group users.
    
-5. Terdapat pengendalian masalah pada sistem, jika message tidak sesuai dengan command maka akan dialihkan ke command /help.
+5. There is problem control in the system, if the message does not match the command it will be redirected to the ``` /help ``` command.
 
 <br>
 
@@ -62,11 +62,12 @@ This project is closely related to telegram bots, which themselves have an impor
 
 <br>
 
-## Catatan
-- Perhatikan cara penulisan sintaks yang baik dan benar karena python termasuk sensitive case
-- Pastikan PC/Laptop anda telah terkoneksi dengan internet
+## Reminder
+• Pay attention to writing good and correct syntax because python is case sensitive.
+
+• Make sure your PC/Laptop is connected to the internet.
 
 <br>
 
-## Dokumentasi
+## Highlights
 <img src="https://user-images.githubusercontent.com/54527592/100474241-c76e5080-3112-11eb-8e95-87ed4cdc8312.jpg" />
