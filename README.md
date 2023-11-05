@@ -58,7 +58,7 @@ This project is closely related to telegram bots, which themselves have an impor
    pip3.6 install --user pytelegrambotapi
    ```
 
-8. Return to the initial tab, that is ``` Bot-Pertemuan6.py ``` -> refresh page: ``` F5 ``` -> ``` run ```.
+8. Return to the initial tab, then open the file ``` Bot-Pertemuan6.py ``` -> refresh the page: ``` F5 ``` -> ``` run ```.
     
 9. Enjoy [Done].
 
