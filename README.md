@@ -47,18 +47,20 @@ This project is closely related to telegram bots, which themselves have an impor
    ```
 3. Login to ``` pythonanywhere account ```.
    
-4. Create a new directory on the ``` pythonanywhere platform ``` -> upload ``` your.py file ```.
+4. Create a new directory on the ``` pythonanywhere platform`` by clicking on ```Files`` at the top -> Type in the Directories section: ```Pertemuan6`` -> Click ```New directory``.
 
-5. Open a new tab -> Select ``` Home ``` -> Select ``` Bash Console ```.
+5. Then upload ```Bot-Pertemuan6.py`` by clicking the ```upload a file`` button.
+
+6. Open a new tab -> Select ``` Home ``` -> Select ``` Bash Console ```.
   
-6. Then type this in the console :
+7. Then type this in the console :
    ```bash
    pip3.6 install --user pytelegrambotapi
    ```
 
-7. Return to the initial tab, that is ``` file.py ``` -> refresh page: ``` F5 ``` -> ``` run ```.
+8. Return to the initial tab, that is ``` file.py ``` -> refresh page: ``` F5 ``` -> ``` run ```.
     
-8. Enjoy [Done].
+9. Enjoy [Done].
 
 <br>
 
