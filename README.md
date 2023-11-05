@@ -46,9 +46,9 @@ This project is closely related to telegram bots, which themselves have an impor
    ```
 3. Login to ``` pythonanywhere account ```.
    
-4. Create a new directory on the ``` pythonanywhere platform ``` by clicking on ``` Files ``` at the top -> Type in the ``` Directories ``` section: ``` Pertemuan6 ``` -> Click ``` New directory ```.
+4. Create a new directory on the ``` pythonanywhere platform ``` by clicking on ``` Files ``` at the top -> Type in the ``` Directories ``` section: ``` KelasApi ``` -> Click ``` New directory ```.
 
-5. Then upload ``` Bot-Pertemuan6.py ``` by clicking the ``` Upload a file ``` button.
+5. Then upload ``` Bot-InventarisTugas.py ``` by clicking the ``` Upload a file ``` button.
 
 6. Make page duplication -> Go to the duplication page -> Click on ``` Open Bash console here ```.
   
@@ -57,7 +57,7 @@ This project is closely related to telegram bots, which themselves have an impor
    pip3.6 install --user pytelegrambotapi
    ```
 
-8. Return to the initial tab, then open the file ``` Bot-Pertemuan6.py ``` -> refresh the page: ``` F5 ``` -> ``` run ```.
+8. Return to the initial tab, then open the file ``` Bot-InventarisTugas.py ``` -> refresh the page: ``` F5 ``` -> ``` run ```.
     
 9. Enjoy [Done].
 
