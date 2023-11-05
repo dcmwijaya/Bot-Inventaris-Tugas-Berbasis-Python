@@ -54,7 +54,7 @@ This project is closely related to telegram bots, which themselves have an impor
   
 7. Then type this in the console :
    ```bash
-   pip3.6 install --user pytelegrambotapi
+   virtualenv venv --python=python3.6
    ```
 
 8. Return to the initial tab, then open the file ``` Bot-InventarisTugas.py ``` -> refresh the page: ``` F5 ``` -> ``` run ```.
