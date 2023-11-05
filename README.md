@@ -18,7 +18,7 @@ This project is closely related to telegram bots, which themselves have an impor
 | Part | Description |
 | --- | --- |
 | Features | Reply Keyboard, Inline Keyboard, Error Handling, Inventory |
-| Vendor | Pythonanywhere |
+| Platform | Pythonanywhere |
 | Code | Python 3.6 |
 
 <br>
