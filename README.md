@@ -32,7 +32,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
 ## Kemampuan Bot
 1. Terdapat pilihan menu yang dapat diakses dengan cara diklik atau diketik.
-2. Memiliki menu custom keyboard dan menu inline keyboard yang menambah estetika bot. 
+2. Memiliki menu reply keyboard dan menu inline keyboard yang menambah estetika bot. 
 3. Selain itu bot ini juga dapat mendeteksi file / dokumen yang masuk dan memberikan notifikasi secara langsung kepada pengirim.
 4. Adapun kemampuan lain bot ini yaitu dapat memberikan notifikasi kepada pemilik bot bahwa seseorang telah mengakses menu tertentu, sehingga pemilik bot dapat memantau pergerakan yang terjadi secara langsung. 
 5. Bot ini dapat menyapa user grup maupun user non grup.
