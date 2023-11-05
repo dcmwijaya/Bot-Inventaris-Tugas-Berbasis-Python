@@ -20,7 +20,6 @@ This project is closely related to telegram bots, which themselves have an impor
 | Features | Reply Keyboard, Inline Keyboard, Error Handling, Inventory |
 | Vendor | Pythonanywhere |
 | Code | Python 3.6 |
-| Tools | Visual Studio Code |
 
 <br>
 
@@ -73,3 +72,14 @@ This project is closely related to telegram bots, which themselves have an impor
 
 ## Highlights
 <img src="https://user-images.githubusercontent.com/54527592/100474241-c76e5080-3112-11eb-8e95-87ed4cdc8312.jpg" />
+
+<br>
+
+## LICENSE
+MIT License - Copyright (c) 2020 - Devan Cakra Mudra Wijaya
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
