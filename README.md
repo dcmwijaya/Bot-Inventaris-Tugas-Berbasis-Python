@@ -14,59 +14,63 @@ This project is closely related to telegram bots, which themselves have an impor
 
 <br>
 
-## Dokumentasi
-<img src="https://user-images.githubusercontent.com/54527592/100474241-c76e5080-3112-11eb-8e95-87ed4cdc8312.jpg" />
-
-<br>
-<br>
-
 ## Tools / Framework / Other
-| Bagian | Tools yang digunakan |
+| Part | Description |
 | --- | --- |
+| Features | Reply Keyboard, Inline Keyboard, Error Handling, Inventory |
 | Vendor | Pythonanywhere |
-| Language | Python 3.6 |
-| Text Editor | Sublime |
+| Code | Python 3.6 |
+| Tools | Visual Studio Code |
 
-<br>
 <br>
 
 ## Kemampuan Bot
 1. Terdapat pilihan menu yang dapat diakses dengan cara diklik atau diketik.
-2. Memiliki menu reply keyboard dan menu inline keyboard yang menambah estetika bot. 
-3. Selain itu bot ini juga dapat mendeteksi file / dokumen yang masuk dan memberikan notifikasi secara langsung kepada pengirim.
-4. Adapun kemampuan lain bot ini yaitu dapat memberikan notifikasi kepada pemilik bot bahwa seseorang telah mengakses menu tertentu, sehingga pemilik bot dapat memantau pergerakan yang terjadi secara langsung. 
-5. Bot ini dapat menyapa user grup maupun user non grup.
-6. Penggunaan reply dan message memakai parse HTML sehingga dapat memudahkan programmer dalam berkreasi.
-7. Terdapat sistem error handling, jika message tidak sesuai dengan command maka akan dialihkan ke command /help.
+   
+2. Selain itu bot ini juga dapat mendeteksi file / dokumen yang masuk dan memberikan notifikasi secara langsung kepada pengirim.
+   
+3. Adapun kemampuan lain bot ini yaitu dapat memberikan notifikasi kepada pemilik bot bahwa seseorang telah mengakses menu tertentu, sehingga pemilik bot dapat memantau pergerakan yang terjadi secara langsung.
+   
+4. Bot ini dapat menyapa user grup maupun user non grup.
+   
+5. Terdapat pengendalian masalah pada sistem, jika message tidak sesuai dengan command maka akan dialihkan ke command /help.
 
 <br>
-<br>
 
-## Langkah2 Pembuatan Bot
-1. Fork / Download repositori ini
-2. Buka telegram anda -> @BotFather -> ketik "/newbot" -> isikan nama bot anda (terserah anda/bebas) -> isikan username bot anda (terserah anda/bebas)_bot
+## Running
+1. Download this repository and extract it.
+   
+2. Buka telegram anda -> @BotFather -> ketik "/newbot" -> isikan nama bot anda (terserah anda/bebas) -> isikan username bot anda (terserah anda/bebas)_bot.
+  
 3. Rename file dan ubah isi dari Bot-Pertemuan6.py sesuai data anda, termasuk api telegram bot.
-4. Register pythonanywhere : 
+   
+4. Register pythonanywhere :<br>
 
-```bash
-https://www.pythonanywhere.com/registration/register/beginner/
-```
+   ```bash
+   https://www.pythonanywhere.com/registration/register/beginner/
+   ```
+5. Login.
+   
+6. Buat direktori baru -> upload file.py anda.
 
-5. Login
-6. Buat direktori baru -> upload file.py anda
-7. Buka new tab -> Pilih Home -> Pilih Bash Console
+7. Buka new tab -> Pilih Home -> Pilih Bash Console.
+  
 8. Ketikkan ini :
+   ```bash
+   pip3.6 install --user pytelegrambotapi
+   ```
 
-```bash
-pip3.6 install --user pytelegrambotapi
-```
-
-9. Kembali ke tab awal yaitu file.py anda -> Refresh halaman (F5) -> run
+9. Kembali ke tab awal yaitu file.py anda -> Refresh halaman (F5) -> run.
+    
 10. Selesai! Silahkan dicoba ^^
 
-<br>
 <br>
 
 ## Catatan
 - Perhatikan cara penulisan sintaks yang baik dan benar karena python termasuk sensitive case
 - Pastikan PC/Laptop anda telah terkoneksi dengan internet
+
+<br>
+
+## Dokumentasi
+<img src="https://user-images.githubusercontent.com/54527592/100474241-c76e5080-3112-11eb-8e95-87ed4cdc8312.jpg" />
