@@ -40,29 +40,25 @@ This project is closely related to telegram bots, which themselves have an impor
 ## Running
 1. Download this repository and extract it.
    
-2. Buka telegram anda -> @BotFather -> ketik "/newbot" -> isikan nama bot anda (terserah anda/bebas) -> isikan username bot anda (terserah anda/bebas)_bot.
-  
-3. Rename file dan ubah isi dari Bot-Pertemuan6.py sesuai data anda, termasuk api telegram bot.
-   
-4. Register pythonanywhere :<br>
+2. Register for a ``` pythonanywhere account ``` :<br>
 
    ```bash
    https://www.pythonanywhere.com/registration/register/beginner/
    ```
-5. Login.
+3. Login to ``` pythonanywhere account ```.
    
-6. Buat direktori baru -> upload file.py anda.
+4. Create a new directory on the ``` pythonanywhere platform ``` -> upload ``` your.py file ```.
 
-7. Buka new tab -> Pilih Home -> Pilih Bash Console.
+5. Open a new tab -> Select ``` Home ``` -> Select ``` Bash Console ```.
   
-8. Ketikkan ini :
+6. Then type this in the console :
    ```bash
    pip3.6 install --user pytelegrambotapi
    ```
 
-9. Kembali ke tab awal yaitu file.py anda -> Refresh halaman (F5) -> run.
+7. Return to the initial tab, that is ``` file.py ``` -> refresh page: ``` F5 ``` -> ``` run ```.
     
-10. Selesai! Silahkan dicoba ^^
+8. Enjoy [Done].
 
 <br>
 
