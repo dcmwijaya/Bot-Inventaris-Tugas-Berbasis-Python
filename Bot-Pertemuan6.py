@@ -12,14 +12,14 @@ date = d.strftime("%a, %d-%m-%Y")
 timestamp = date
 
 #Api Telegram
-api = 'api_bot_telegram_anda'
+api = '6658393237:AAHtW_xpaox4LMOkYRcyHvmGd-79bRTWVEU'
 bot = telebot.TeleBot(api)
 
 # unset webhook
 bot.remove_webhook()
 
-#Private Chat Notif ID
-message_id = 'id_telegram_yang_mau_diberi_info_secara_pribadi'
+#Chat ID for notifications
+message_id = 'CHAT ID Telegram Anda'
 
 #Message (Alert)
 alert_msg = '⚠️ <b>Ada yang mengakses bot anda</b> ❗\n\n🆔 ID = {}\n👤 Nama = {}\n🚹 Username = {}\n📁 Akses Menu = {}\n⏰ Pada = {}'
@@ -122,7 +122,7 @@ def action_about(message):
   id_telegram = message.from_user.id
   menu = '/about'
 
-  msg = '🤖 <b>INFORMASI TENTANG BOT Nama_bot_anda</b>\n\n🔥 <b>Nama bot :</b> \n---> @nama_bot_anda\n\n👤 <b>Dibuat oleh :</b> \n---> Nama_anda\n\n✨ <b>Tujuan :</b> \n---> Sebagai pemenuhan tugas\n\n🐍 <b>Bahasa pemrograman :</b> \n---> Python'
+  msg = '🤖 <b>INFORMASI TENTANG BOT Nama_bot_anda</b>\n\n🔥 <b>Nama bot :</b> \n---> @inventaristugas_bot\n\n👤 <b>Dibuat oleh :</b> \n---> Nama_anda\n\n✨ <b>Tujuan :</b> \n---> Sebagai pemenuhan tugas\n\n🐍 <b>Bahasa pemrograman :</b> \n---> Python'
 
   markup = types.InlineKeyboardMarkup()
   inkeyboard = telebot.types.InlineKeyboardButton
