@@ -56,9 +56,14 @@ This project is closely related to telegram bots, which themselves have an impor
 7. Then type this in the console in rotation:
 
    ```bash
-   python3 -m virtualenvs myvirtualenv
+   python3 -m virtualenvs virtualenvs
    ```
    
+   <br><br>
+
+   ```bash
+   source virtualenvs/bin/activate
+   ```
    <br><br>
 
    ```bash
