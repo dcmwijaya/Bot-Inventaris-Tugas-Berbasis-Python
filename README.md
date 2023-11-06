@@ -76,16 +76,16 @@ This project is closely related to telegram bots, which themselves have an impor
    ```bash
    cd KelasApi
    ```
-   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/274e72c1-f2fe-425e-812d-c9e0e9425ef8">
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/ba30f775-d385-4433-b8c5-a74b2086fc60">
    <br><br>
 
    ```bash
    python3 Bot-InventarisTugas.py
    ```
-   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/75de309f-633c-49de-9ef7-bb83fc5e2eb6">
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/8391e6f8-de4b-4315-942a-4570385cc763">
    <br><br>
 
-8. Enjoy [Done].
+9. Enjoy [Done].
 
 <br>
 
