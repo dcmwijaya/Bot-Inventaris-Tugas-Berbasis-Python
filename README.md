@@ -50,19 +50,16 @@ This project is closely related to telegram bots, which themselves have an impor
 
 5. Then upload ``` Bot-InventarisTugas.py ``` by clicking the ``` Upload a file ``` button.
 
-6. Make page duplication -> Go to the duplication page -> Click on ``` Open Bash console here ```.
+6. Return to the previous page, which is at ``` /home/devancmw ``` -> Click on ``` Open Bash console here ```.
   
 7. Then type this in the console :
+
    ```bash
-   cd KelasApi
+   mkvirtualenv myvirtualenv --python=/usr/bin/python3.10
    ```
 
    ```bash
-   python3 -m venv venv
-   ```
-
-   ```bash
-   source venv/bin/activate
+   source myvirtualenv/bin/activate
    ```
 
    ```bash
@@ -71,6 +68,10 @@ This project is closely related to telegram bots, which themselves have an impor
 
    ```bash
    pip install datetime
+   ```
+
+   ```bash
+   cd KelasApi
    ```
 
    ```bash
