@@ -180,11 +180,11 @@ def kirim_file(message):
   file_loc = file.file_path
   download = bot.download_file(file_loc)
 
-  with open (pdf_name,"wb") as f:
+  with open (file_name,"wb") as f:
     f.write(download)
 
   msg = 'Terima kasih <b>{}</b>, anda telah mengirimkan tugas pada <b>Bot Inventaris Tugas</b>.\n\n📁 Nama file = <b>{}</b>\n\n⏰ Pada = <b>{}</b>\n\n📚 File dapat diakses secara private pada : <b>https://www.pythonanywhere.com/user/devancmw/files/home/devancmw/KelasApi</b>'
-  bot.send_message(chat_id,msg.format(name, pdf_name, timestamp),parse_mode='HTML')
+  bot.send_message(chat_id,msg.format(name, file_name, timestamp),parse_mode='HTML')
   bot.send_message(message_id,alert_msg.format(id_telegram,name,username,menu,timestamp),parse_mode='HTML')
 
 
