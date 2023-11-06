@@ -64,13 +64,13 @@ This project is closely related to telegram bots, which themselves have an impor
    ```bash
    pip install pytelegrambotapi
    ```
-   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/53fdd5a9-e997-4576-b9b9-caec9c12fc3e">
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/c452c0b8-38f6-4ca0-987d-01e28ef0c3be">
    <br><br>
 
    ```bash
    pip install datetime
    ```
-   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/c6303ba1-f54c-4a96-b77f-a063c2a52416">
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/e1ce9401-ac0d-4fff-8f93-8dbb89a893a9">
    <br><br>
 
    ```bash
