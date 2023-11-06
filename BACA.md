@@ -17,7 +17,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
 ## Fitur / Kerangka Kerja / Peralatan
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Reply Keyboard, Inline Keyboard, Error Handling, Inventory |
+| Fitur | Keyboard Balasan, Keyboard Sebaris, Pengendalian Masalah, Inventarisasi, Aktivitas Catatan Pengguna |
 | Platform | Pythonanywhere |
 | Pustaka | telebot, datetime |
 | Kode | Python 3.6 |
