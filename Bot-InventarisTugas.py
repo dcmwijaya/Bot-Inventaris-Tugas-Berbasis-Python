@@ -173,9 +173,9 @@ def kirim_file(message):
   id_telegram = message.from_user.id
   menu = 'send document'
 
-  pdf = message.document
-  file_id = pdf.file_id
-  pdf_name = pdf.file_name
+  file_extension = message.document
+  file_id = file_extension.file_id
+  pdf_name = file_extension.file_name
   file = bot.get_file(file_id)
   file_loc = file.file_path
   download = bot.download_file(file_loc)
