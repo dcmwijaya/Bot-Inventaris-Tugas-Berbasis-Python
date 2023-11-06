@@ -19,7 +19,7 @@ bot = telebot.TeleBot(api)
 bot.remove_webhook()
 
 #Chat ID for notifications
-message_id = '1000064401'
+message_id = 'CHAT ID TELEGRAM ANDA'
 
 #Message (Alert)
 alert_msg = '⚠️ <b>Ada yang mengakses bot anda</b> ❗\n\n🆔 ID = {}\n👤 Nama = {}\n🚹 Username = {}\n📁 Akses Menu = {}\n⏰ Pada = {}'
@@ -173,12 +173,12 @@ def kirim_file(message):
   id_telegram = message.from_user.id
   menu = 'send document'
 
-  file_extension = message.document
-  file_id = file_extension.file_id
-  file_name = file_extension.file_name
-  file = bot.get_file(file_id)
-  file_loc = file.file_path
-  download = bot.download_file(file_loc)
+  msgDoc = message.document
+  file_id = msgDoc.file_id
+  file_name = msgDoc.file_name
+  getfile_bot = bot.get_file(file_id)
+  file = getfile_bot.file_path
+  download = bot.download_file(file)
 
   with open (file_name,"wb") as f:
     f.write(download)
