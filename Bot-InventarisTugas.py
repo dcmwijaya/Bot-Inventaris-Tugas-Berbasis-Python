@@ -19,7 +19,7 @@ bot = telebot.TeleBot(api)
 bot.remove_webhook()
 
 #Chat ID for notifications
-message_id = 'CHAT ID Telegram Anda'
+message_id = '1000064401'
 
 #Message (Alert)
 alert_msg = '⚠️ <b>Ada yang mengakses bot anda</b> ❗\n\n🆔 ID = {}\n👤 Nama = {}\n🚹 Username = {}\n📁 Akses Menu = {}\n⏰ Pada = {}'
@@ -126,8 +126,8 @@ def action_about(message):
 
   markup = types.InlineKeyboardMarkup()
   inkeyboard = telebot.types.InlineKeyboardButton
-  markup.add(inkeyboard(text='🌐 Web profile',url='alamat_web_profil_anda'))
-  markup.add(inkeyboard(text='👨🏻‍🎓 Schoolar',url='alamat_schoolar_jika_anda_memilikinya_jika_tidak_ganti_saja'))
+  markup.add(inkeyboard(text='🌐 Github',url='https://github.com/devancakra'))
+  markup.add(inkeyboard(text='👨🏻‍🎓 Schoolar',url='https://bit.ly/GSDevan'))
 
   bot.send_message(message_id,alert_msg.format(id_telegram,name,username,menu,timestamp),parse_mode='HTML')
   bot.send_message(chat_id,msg,reply_markup=markup,parse_mode='HTML')
