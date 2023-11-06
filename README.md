@@ -83,9 +83,9 @@ This project is closely related to telegram bots, which themselves have an impor
    python3 Bot-InventarisTugas.py
    ```
    <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/8391e6f8-de4b-4315-942a-4570385cc763">
-   <br><br>
+   <br>
 
-9. Enjoy [Done].
+8. Enjoy [Done].
 
 <br>
 
