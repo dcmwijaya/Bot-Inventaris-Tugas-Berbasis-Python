@@ -96,6 +96,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
 <br>
 
+## Highlights
 <table>
 <tr>
 <th colspan="4">Telegram Bot</th>
