@@ -51,7 +51,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
 5. Then upload ``` Bot-InventarisTugas.py ``` by clicking the ``` Upload a file ``` button.
 
-6. Return to the previous page, which is at ``` /home/devancmw ``` -> Click on ``` Open Bash console here ```.
+6. Return to the previous page, which is at ``` /home/[pythonanywhere username] ``` -> Click on ``` Open Bash console here ```.
   
 7. Then type this in the console in rotation:
 
