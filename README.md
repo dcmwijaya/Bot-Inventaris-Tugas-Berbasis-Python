@@ -59,7 +59,6 @@ This project is closely related to telegram bots, which themselves have an impor
    mkvirtualenv myvirtualenv --python=/usr/bin/python3
    ```
    <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/da359630-98c8-4742-a1d8-7a2f9beb282a">
-
    <br><br>
 
    ```bash
