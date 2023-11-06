@@ -57,7 +57,7 @@ This project is closely related to telegram bots, which themselves have an impor
 7. Then type this in the console in rotation:
 
    ```bash
-   mkvirtualenv myvirtualenv --python=/usr/bin/python3.10
+   mkvirtualenv myvirtualenv --python=/usr/bin/python3.6
    ```
 
    ```bash
