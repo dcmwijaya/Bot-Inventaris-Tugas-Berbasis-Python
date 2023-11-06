@@ -56,24 +56,34 @@ This project is closely related to telegram bots, which themselves have an impor
 7. Then type this in the console in rotation:
 
    ```bash
-   mkvirtualenv myvirtualenv --python=/usr/bin/python3.6
+   python3 -m virtualenvs myvirtualenv
    ```
+   
+   <br><br>
 
    ```bash
    pip install pytelegrambotapi
    ```
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/53fdd5a9-e997-4576-b9b9-caec9c12fc3e">
+   <br><br>
 
    ```bash
    pip install datetime
    ```
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/c6303ba1-f54c-4a96-b77f-a063c2a52416">
+   <br><br>
 
    ```bash
    cd KelasApi
    ```
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/274e72c1-f2fe-425e-812d-c9e0e9425ef8">
+   <br><br>
 
    ```bash
    python3 Bot-InventarisTugas.py
    ```
+   
+   <br><br>
 
 8. Enjoy [Done].
 
