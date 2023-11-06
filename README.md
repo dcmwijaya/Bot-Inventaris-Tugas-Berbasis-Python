@@ -96,8 +96,26 @@ This project is closely related to telegram bots, which themselves have an impor
 
 <br>
 
-## Highlights
-<img src="https://user-images.githubusercontent.com/54527592/100474241-c76e5080-3112-11eb-8e95-87ed4cdc8312.jpg" />
+<table>
+<tr>
+<th colspan="4">Telegram Bot</th>
+</tr>
+<tr>
+<td width="210"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/08217f59-1fc8-4721-a67c-4d604c4286e4" alt="TGbot-1"></td>
+<td width="210"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/9d5e906a-63a8-4913-97a3-1b86aabb9d0c" alt="TGbot-2"></td>
+<td width="210"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/9b684607-ca9f-4764-bf34-7ccd056fda0d" alt="TGbot-3"></td>
+</tr>
+<tr>
+<td width="210"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/cde5ec27-79ed-412e-9b4b-33d3062bc50b" alt="TGbot-4"></td>
+<td width="210"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/44b7d8f9-f3a2-42dc-a1b5-23ff54899062" alt="TGbot-5"></td>
+<td width="210"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/ad0936cf-e162-42c0-a6d1-9a9ae192fbd4" alt="TGbot-6"></td>
+</tr>
+</table>
+
+<br>
+
+## Demonstration of Application
+Via Telegram: <a href="http://t.me/inventaristugas_bot">@inventaristugas_bot</a>
 
 <br>
 
