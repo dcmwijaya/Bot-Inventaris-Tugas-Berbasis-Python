@@ -82,7 +82,7 @@ This project is closely related to telegram bots, which themselves have an impor
    ```bash
    python3 Bot-InventarisTugas.py
    ```
-   
+   <img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/75de309f-633c-49de-9ef7-bb83fc5e2eb6">
    <br><br>
 
 8. Enjoy [Done].
