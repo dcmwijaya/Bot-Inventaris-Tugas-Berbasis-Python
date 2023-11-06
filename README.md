@@ -61,10 +61,6 @@ This project is closely related to telegram bots, which themselves have an impor
    ```
 
    ```bash
-   source myvirtualenv/bin/activate
-   ```
-
-   ```bash
    pip install pytelegrambotapi
    ```
 
