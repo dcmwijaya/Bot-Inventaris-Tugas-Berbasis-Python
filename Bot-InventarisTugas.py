@@ -183,7 +183,7 @@ def kirim_file(message):
   with open (pdf_name,"wb") as f:
     f.write(download)
 
-  msg = 'Terima kasih <b>{}</b>, anda telah mengirimkan tugas pada <b>Bot Inventaris Tugas</b>.\n\n📁 Nama file = <b>{}</b>\n\n⏰ Pada = <b>{}</b>\n\n📚 File dapat diakses pada : <b>alamat_file_yang_dapat_diakses</b>'
+  msg = 'Terima kasih <b>{}</b>, anda telah mengirimkan tugas pada <b>Bot Inventaris Tugas</b>.\n\n📁 Nama file = <b>{}</b>\n\n⏰ Pada = <b>{}</b>\n\n📚 File dapat diakses secara private pada : <b>https://www.pythonanywhere.com/user/devancmw/files/home/devancmw/KelasApi</b>'
   bot.send_message(chat_id,msg.format(name, pdf_name, timestamp),parse_mode='HTML')
   bot.send_message(message_id,alert_msg.format(id_telegram,name,username,menu,timestamp),parse_mode='HTML')
 
