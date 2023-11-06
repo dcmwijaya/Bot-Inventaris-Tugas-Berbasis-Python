@@ -96,6 +96,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
 
 <br>
 
+## Sorotan
 <table>
 <tr>
 <th colspan="4">Bot Telegram</th>
