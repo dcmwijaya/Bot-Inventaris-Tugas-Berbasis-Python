@@ -54,12 +54,30 @@ This project is closely related to telegram bots, which themselves have an impor
   
 7. Then type this in the console :
    ```bash
-   pip3.6 install --user pytelegrambotapi
+   cd KelasApi
    ```
 
-8. Return to the initial tab, then open the file ``` Bot-InventarisTugas.py ``` -> refresh the page: ``` F5 ``` -> ``` run ```.
-    
-9. Enjoy [Done].
+   ```bash
+   python3 -m venv venv
+   ```
+
+   ```bash
+   source venv/bin/activate
+   ```
+
+   ```bash
+   pip install pytelegrambotapi
+   ```
+
+   ```bash
+   pip install datetime
+   ```
+
+   ```bash
+   python3 Bot-InventarisTugas.py
+   ```
+
+8. Enjoy [Done].
 
 <br>
 
