@@ -54,7 +54,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
 6. Return to the previous page, which is at ``` /home/devancmw ``` -> Click on ``` Open Bash console here ```.
   
-7. Then type this in the console :
+7. Then type this in the console in rotation:
 
    ```bash
    mkvirtualenv myvirtualenv --python=/usr/bin/python3.10
