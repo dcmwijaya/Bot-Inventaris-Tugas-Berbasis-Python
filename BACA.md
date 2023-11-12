@@ -37,7 +37,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
 
 <br>
 
-## Menjalankan
+## Memulai
 1. Unduh repositori ini dan ekstrak.
    
 2. Daftar ``` akun pythonanywhere ``` :<br>
