@@ -37,7 +37,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
 <br>
 
-## Running
+## Get Started
 1. Download this repository and extract it.
    
 2. Register for a ``` pythonanywhere account ``` :<br>
