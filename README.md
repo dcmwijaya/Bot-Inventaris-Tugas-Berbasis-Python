@@ -14,7 +14,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Reply Keyboard, Inline Keyboard, Error Handling, Inventory, User Log Activity |
