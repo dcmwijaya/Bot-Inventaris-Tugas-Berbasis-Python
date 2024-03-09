@@ -11,7 +11,7 @@
 
 This project is closely related to telegram bots, which themselves have an important role in teaching and learning activities in a classroom. This bot can perform task inventory periodically. This bot is built with the help of a platform called ``` pythonanywhere ```. In this project, the program creator uses ``` python version 3.6 ``` because it is known to have advantages in syntax. The purpose of this project is to help lecturers or teachers in taking inventory of their students' assignments and anticipate errors that might occur, namely forgetting to recap, this is due to the busy messaging activities in a class social media group, in this case telegram.
 
-<br>
+<br><br>
 
 ## Project Requirements
 | Part | Description |
@@ -21,25 +21,25 @@ This project is closely related to telegram bots, which themselves have an impor
 | Library | telebot, datetime |
 | Code | Python 3.6 |
 
-<br>
+<br><br>
 
 ## Bot Capabilities
-1. There are menu options that can be accessed by clicking or typing.
+1. There are menu options that can be accessed by clicking or typing.<br><br>
    
-2. It can also detect incoming files or documents and notify the sender directly.
+2. It can also detect incoming files or documents and notify the sender directly.<br><br>
    
-3. Another ability of this bot is that it can provide notification to the bot owner that someone has accessed a certain menu, so that the bot owner can monitor the movements that occur directly.
+3. Another ability of this bot is that it can provide notification to the bot owner that someone has accessed a certain menu, so that the bot owner can monitor the movements that occur directly.<br><br>
    
-4. This bot can address both group users and non-group users.
+4. This bot can address both group users and non-group users.<br><br>
    
 5. There is problem control in the system, if the message does not match the command it will be redirected to the ``` /help ``` command.
 
-<br>
+<br><br>
 
 ## Get Started
-1. Download this repository and extract it.
+1. Download this repository and extract it.<br><br>
    
-2. Register for a ``` pythonanywhere account ``` :<br>
+2. Register for a ``` pythonanywhere account ``` :
 
    <table><tr><td width="810">
 
@@ -47,15 +47,15 @@ This project is closely related to telegram bots, which themselves have an impor
    https://www.pythonanywhere.com/registration/register/beginner/
    ```
 
-   </td></tr></table>
+   </td></tr></table><br>
    
-3. Login to ``` pythonanywhere account ```.
+3. Login to ``` pythonanywhere account ```.<br><br>
    
-4. Create a new directory on the ``` pythonanywhere platform ``` by clicking on ``` Files ``` at the top -> Type in the ``` Directories ``` section: ``` KelasApi ``` -> Click ``` New directory ```.
+4. Create a new directory on the ``` pythonanywhere platform ``` by clicking on ``` Files ``` at the top -> Type in the ``` Directories ``` section: ``` KelasApi ``` -> Click ``` New directory ```.<br><br>
 
-5. Then upload ``` Bot-InventarisTugas.py ``` by clicking the ``` Upload a file ``` button.
+5. Then upload ``` Bot-InventarisTugas.py ``` by clicking the ``` Upload a file ``` button.<br><br>
 
-6. Return to the previous page, which is at ``` /home/[pythonanywhere username] ``` -> Click on ``` Open Bash console here ```.
+6. Return to the previous page, which is at ``` /home/[pythonanywhere username] ``` -> Click on ``` Open Bash console here ```.<br><br>
   
 7. Then type this in the console in rotation:
 
@@ -67,7 +67,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
    </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/da359630-98c8-4742-a1d8-7a2f9beb282a">
-   <br><br>
+   <br><br><br>
 
    <table><tr><td width="810">
       
@@ -77,7 +77,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
    </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/c452c0b8-38f6-4ca0-987d-01e28ef0c3be">
-   <br><br>
+   <br><br><br>
 
    <table><tr><td width="810">
       
@@ -87,7 +87,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
    </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/e1ce9401-ac0d-4fff-8f93-8dbb89a893a9">
-   <br><br>
+   <br><br><br>
 
    <table><tr><td width="810">
       
@@ -97,7 +97,7 @@ This project is closely related to telegram bots, which themselves have an impor
 
    </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/ba30f775-d385-4433-b8c5-a74b2086fc60">
-   <br><br>
+   <br><br><br>
 
    <table><tr><td width="810">
 
@@ -107,18 +107,18 @@ This project is closely related to telegram bots, which themselves have an impor
 
    </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/8391e6f8-de4b-4315-942a-4570385cc763">
-   <br>
+   <br><br>
 
 8. Enjoy [Done].
 
-<br>
+<br><br>
 
 ## Reminder
 • Pay attention to writing good and correct syntax because python is case sensitive.
 
 • Make sure your PC/Laptop is connected to the internet.
 
-<br>
+<br><br>
 
 ## Highlights
 <table>
@@ -137,22 +137,22 @@ This project is closely related to telegram bots, which themselves have an impor
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Demonstration of Application
 Via Telegram: <a href="http://t.me/inventaristugas_bot">@inventaristugas_bot</a>
 
-<br>
+<br><br>
 
 ## Appreciation
 If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
-<br>
+<br><br>
 
 ## Disclaimer
 This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
-<br>
+<br><br>
 
 ## LICENSE
 MIT License - Copyright © 2020 - Devan Cakra Mudra Wijaya
