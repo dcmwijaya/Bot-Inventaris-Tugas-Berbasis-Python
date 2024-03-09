@@ -112,7 +112,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
 ## Pengingat
 • Perhatikan penulisan sintaks yang baik dan benar karena python peka terhadap huruf besar/kecil.
 
-• Pastikan PC/Laptop Anda terhubung ke internet.
+• Pastikan PC/Laptop anda terhubung ke internet.
 
 <br><br>
 
