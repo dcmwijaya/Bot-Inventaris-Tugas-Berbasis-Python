@@ -41,9 +41,14 @@ This project is closely related to telegram bots, which themselves have an impor
    
 2. Register for a ``` pythonanywhere account ``` :<br>
 
-   ```bash
+   <table><tr><td width="810">
+
+   ```
    https://www.pythonanywhere.com/registration/register/beginner/
    ```
+
+   </td></tr></table>
+   
 3. Login to ``` pythonanywhere account ```.
    
 4. Create a new directory on the ``` pythonanywhere platform ``` by clicking on ``` Files ``` at the top -> Type in the ``` Directories ``` section: ``` KelasApi ``` -> Click ``` New directory ```.
@@ -54,33 +59,53 @@ This project is closely related to telegram bots, which themselves have an impor
   
 7. Then type this in the console in rotation:
 
-   ```bash
+   <table><tr><td width="810">
+
+   ```python
    mkvirtualenv myvirtualenv --python=/usr/bin/python3
-   ```
+   ```   
+
+   </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/da359630-98c8-4742-a1d8-7a2f9beb282a">
    <br><br>
 
-   ```bash
+   <table><tr><td width="810">
+      
+   ```python
    pip install pytelegrambotapi
    ```
+
+   </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/c452c0b8-38f6-4ca0-987d-01e28ef0c3be">
    <br><br>
 
-   ```bash
+   <table><tr><td width="810">
+      
+   ```python
    pip install datetime
    ```
+
+   </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/e1ce9401-ac0d-4fff-8f93-8dbb89a893a9">
    <br><br>
 
-   ```bash
+   <table><tr><td width="810">
+      
+   ```python
    cd KelasApi
    ```
+
+   </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/ba30f775-d385-4433-b8c5-a74b2086fc60">
    <br><br>
+
+   <table><tr><td width="810">
 
    ```bash
    python3 Bot-InventarisTugas.py
    ```
+
+   </td></tr></table>
    <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/8391e6f8-de4b-4315-942a-4570385cc763">
    <br>
 
