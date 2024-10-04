@@ -117,17 +117,16 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
 ## Sorotan
 <table>
 <tr>
-<th colspan="4">Bot Telegram</th>
+<th colspan="5">Telegram Bot</th>
+<th>Pythonanywhere</th>
 </tr>
 <tr>
-<td width="280"><img src="Documentation/Telegram Bot View-1.jpg" alt="telegram-bot-1"></td>
-<td width="280"><img src="Documentation/Telegram Bot View-2.jpg" alt="telegram-bot-2"></td>
-<td width="280"><img src="Documentation/Telegram Bot View-3.jpg" alt="telegram-bot-3"></td>
-</tr>
-<tr>
-<td width="280"><img src="Documentation/Telegram Bot View-4.jpg" alt="telegram-bot-4"></td>
-<td width="280"><img src="Documentation/Telegram Bot View-5.jpg" alt="telegram-bot-5"></td>
-<td width="280"><img src="Documentation/Pythonanywhere.jpg" alt="pythonanywhere"></td>
+<td width="140"><img height="238" src="Documentation/Telegram Bot View-1.jpg" alt="telegram-bot-1"></td>
+<td width="140"><img height="238" src="Documentation/Telegram Bot View-2.jpg" alt="telegram-bot-2"></td>
+<td width="140"><img height="238" src="Documentation/Telegram Bot View-3.jpg" alt="telegram-bot-3"></td>
+<td width="140"><img height="238" src="Documentation/Telegram Bot View-4.jpg" alt="telegram-bot-4"></td>
+<td width="140"><img height="238" src="Documentation/Telegram Bot View-5.jpg" alt="telegram-bot-5"></td>
+<td width="140"><img height="235" src="Documentation/Pythonanywhere.jpg" alt="pythonanywhere"></td></td>
 </tr>
 </table>
 
