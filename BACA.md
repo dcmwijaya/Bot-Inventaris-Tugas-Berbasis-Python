@@ -1,10 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python)
-[![ISSN](https://img.shields.io/badge/ISSN-2686%E2%80%936099-blue.svg?logo=google-scholar&color=98FB98)](http://www.ejournal.upnjatim.ac.id/index.php/scan/article/view/2352)
-![GitHub Star](https://img.shields.io/github/stars/devancakra/Bot-Inventaris-Tugas-Berbasis-Python.svg?color=FF69B4)
-![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Bot-Inventaris-Tugas-Berbasis-Python.svg?color=FF8C00)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Bot-Inventaris-Tugas-Berbasis-Python)
-![Python](https://img.shields.io/badge/-Python-blue.svg?style=flat&logo=python&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Bot-Inventaris-Tugas-Berbasis-Python?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Multi-%2DPlatform-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Bot-Telegram-Python-Inventaris-Tugas
 <strong>Tugas Akhir ke-2 dalam Pemrograman API</strong><br>
@@ -65,7 +63,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
    mkvirtualenv myvirtualenv --python=/usr/bin/python3
    ```   
 
-   <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/da359630-98c8-4742-a1d8-7a2f9beb282a">
+   <img width="810" src="Documentation/Bash-1.jpg" alt="bash-1">
    
    </td></tr></table><br>
    <table><tr><td width="810">
@@ -74,7 +72,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
    pip install pytelegrambotapi
    ```
 
-   <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/c452c0b8-38f6-4ca0-987d-01e28ef0c3be">
+   <img width="810" src="Documentation/Bash-2.jpg" alt="bash-2">
 
    </td></tr></table><br>
    <table><tr><td width="810">
@@ -83,7 +81,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
    pip install datetime
    ```
 
-   <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/e1ce9401-ac0d-4fff-8f93-8dbb89a893a9">
+   <img width="810" src="Documentation/Bash-3.jpg" alt="bash-3">
    
    </td></tr></table><br>
    <table><tr><td width="810">
@@ -92,7 +90,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
    cd KelasApi
    ```
 
-   <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/ba30f775-d385-4433-b8c5-a74b2086fc60">
+   <img width="810" src="Documentation/Bash-4.jpg" alt="bash-4">
    
    </td></tr></table><br>
    <table><tr><td width="810">
@@ -101,7 +99,7 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
    python3 Bot-InventarisTugas.py
    ```
 
-   <img width="810" src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/8391e6f8-de4b-4315-942a-4570385cc763">
+   <img width="810" src="Documentation/Bash-5.jpg" alt="bash-5">
    
    </td></tr></table><br>
    
@@ -122,14 +120,14 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
 <th colspan="4">Bot Telegram</th>
 </tr>
 <tr>
-<td width="280"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/08217f59-1fc8-4721-a67c-4d604c4286e4" alt="TGbot-1"></td>
-<td width="280"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/9d5e906a-63a8-4913-97a3-1b86aabb9d0c" alt="TGbot-2"></td>
-<td width="280"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/9b684607-ca9f-4764-bf34-7ccd056fda0d" alt="TGbot-3"></td>
+<td width="280"><img src="Documentation/Telegram Bot View-1.jpg" alt="telegram-bot-1"></td>
+<td width="280"><img src="Documentation/Telegram Bot View-2.jpg" alt="telegram-bot-2"></td>
+<td width="280"><img src="Documentation/Telegram Bot View-3.jpg" alt="telegram-bot-3"></td>
 </tr>
 <tr>
-<td width="280"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/cde5ec27-79ed-412e-9b4b-33d3062bc50b" alt="TGbot-4"></td>
-<td width="280"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/44b7d8f9-f3a2-42dc-a1b5-23ff54899062" alt="TGbot-5"></td>
-<td width="280"><img src="https://github.com/devancakra/Bot-Inventaris-Tugas-Berbasis-Python/assets/54527592/ad0936cf-e162-42c0-a6d1-9a9ae192fbd4" alt="TGbot-6"></td>
+<td width="280"><img src="Documentation/Telegram Bot View-4.jpg" alt="telegram-bot-4"></td>
+<td width="280"><img src="Documentation/Telegram Bot View-5.jpg" alt="telegram-bot-5"></td>
+<td width="280"><img src="Documentation/Pythonanywhere.jpg" alt="pythonanywhere"></td>
 </tr>
 </table>
 
@@ -146,12 +144,12 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+Aplikasi ini merupakan hasil karya saya sendiri dan bukan merupakan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berkaitan dengan layanan pihak ketiga yang meliputi: pustaka, kerangka kerja, dan lain sebagainya.
 
 <br><br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
+LISENSI MIT - Hak Cipta © 2020 - Devan C. M. Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
