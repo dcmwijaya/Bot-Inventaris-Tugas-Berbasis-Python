@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Multi-%2DPlatform-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Bot-Telegram-Python-Inventaris-Tugas
+# Bot Telegram Python - Inventaris Tugas
 <strong>Tugas Akhir ke-2 dalam Pemrograman API</strong><br>
 
 Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sendiri memiliki peran penting dalam kegiatan belajar mengajar di kelas. Bot ini dapat melakukan inventarisasi tugas secara berkala. Bot ini dibangun dengan bantuan sebuah platform yang bernama ``` pythonanywhere ```. Pada proyek ini, pembuat program menggunakan ``` python versi 3.6 ``` karena dikenal memiliki kelebihan dalam sintaksis. Tujuan dari proyek ini adalah untuk membantu dosen atau guru dalam menginventarisir tugas-tugas siswanya dan mengantisipasi kesalahan yang mungkin terjadi yaitu lupa merekap, hal ini dikarenakan kesibukan aktivitas berkirim pesan dalam sebuah grup media sosial kelas, dalam hal ini telegram.
